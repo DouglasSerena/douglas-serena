@@ -1,6 +1,13 @@
 <h1 align="center">Welcome to my humble GitHub !!!</h1>
 <p align="center">My name is Douglas currently 19 years old</p>
 
+<a href="https://github.com/stefanilima">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasSerena&show_icons=true&theme=omni" />
+</a>
+
+<a href="https://github.com/stefanilima">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasSerena&layout=compact&theme=omni" />
+</a>
 
 <h3 align="center">Technologies thast i use!</h3>
 <p align="center">
@@ -19,9 +26,6 @@
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=DouglasSerena" alt="DouglasSerena"/>
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DouglasSerena&show_icons=true" alt="DouglasSerena"/>
 </p>
 
 <p align="center">
