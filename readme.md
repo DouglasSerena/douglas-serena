@@ -2,10 +2,10 @@
 <p align="center">My name is Douglas currently 19 years old</p>
 
 <div align="center">
-    <a href="https://github.com/stefanilima">
+    <a href="https://github.com/DouglasSerena">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasSerena&show_icons=true&theme=omni" />
     </a>
-    <a href="https://github.com/stefanilima">
+    <a href="https://github.com/DouglasSerena">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasSerena&layout=compact&theme=omni" />
     </a>
 </div>
