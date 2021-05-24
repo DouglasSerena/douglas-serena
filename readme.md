@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/language-JavaScript-yellow"/>
     <img src="https://img.shields.io/badge/language-HTML-red"/>
     <img src="https://img.shields.io/badge/language-css-blue"/>
-    <img src="https://img.shields.io/badge/language-scss-red"/>
+    <img src="https://img.shields.io/badge/language-scss-purple"/>
 </p>
 
 <h5 align="center">In case you want to see some projects made by me <a href="https://douglasserena.github.io/DouglasSerena/" target="blank">click-here</a></h5>
