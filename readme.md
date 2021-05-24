@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my humble GitHub !!!</h1>
-<p align="center">My name is Douglas currently 19 years old</p>
+<p align="center">My name is Douglas currently 20 years old</p>
 
 <div align="center">
     <a href="https://github.com/DouglasSerena">
@@ -21,6 +21,7 @@
     <img src="https://img.shields.io/badge/language-JavaScript-yellow"/>
     <img src="https://img.shields.io/badge/language-HTML-red"/>
     <img src="https://img.shields.io/badge/language-css-blue"/>
+    <img src="https://img.shields.io/badge/language-scss-red"/>
 </p>
 
 <h5 align="center">In case you want to see some projects made by me <a href="https://douglasserena.github.io/DouglasSerena/" target="blank">click-here</a></h5>
