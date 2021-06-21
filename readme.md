@@ -40,4 +40,4 @@
     </a>
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/DouglasSerena/DouglasSerena/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DouglasSerena/DouglasSerena/blob/output/github-contribution-grid-snake.svg)
